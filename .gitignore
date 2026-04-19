@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+*.py[cod]
+
+.env
+
+models/
+my_vector_db/
+tmp_vector_db/
+tmp_vector_db_check/
+tmp_vector_db_smoke/
+base_clean_test/
+
+mnt/.ipynb_checkpoints/
